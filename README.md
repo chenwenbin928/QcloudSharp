@@ -38,7 +38,7 @@ catch(Exception ex)
 }
 ```
 
-Or you can try [QcloudCvmHelper](https://github.com/kinosang/QcloudCvmHelper)
+Or you can have a look at [QcloudCvmHelper](https://github.com/kinosang/QcloudCvmHelper)
 
 ### Enums
 
