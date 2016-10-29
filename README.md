@@ -112,7 +112,7 @@ Methods
 Dynamic Methods
 * `{Action}(Enum.Endpoint, Enum.Region)`
 * `{Action}(Enum.Endpoint, Enum.Region, IEnumerable<KeyValuePair<string, string>>)`
-* `{Action}(Enum.Endpoint endpoint, Enum.Region region,KeyValuePair<string, string>, ...)`
+* `{Action}(Enum.Endpoint endpoint, Enum.Region region, KeyValuePair<string, string>, ...)`
 
 #### ApiResult
 
