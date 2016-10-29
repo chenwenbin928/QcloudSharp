@@ -30,7 +30,7 @@ try
 {
     Console.WriteLine(result.Code);
     Console.WriteLine(result.userInfo.name);
-    Console.WriteLine(result.null); // Will throw an ArgumentNullException
+    Console.WriteLine(result.notExist); // Will throw an ArgumentNullException
 }
 catch(Exception ex)
 {
