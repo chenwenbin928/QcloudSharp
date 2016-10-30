@@ -129,3 +129,13 @@ Properties
 
 Dynamic Properties
 * object Any { Get; Set; }
+
+## Donate us
+
+[Donate us](https://7in0.me/#donate)
+
+## License
+
+MIT License
+
+More info see [LICENSE](LICENSE)
