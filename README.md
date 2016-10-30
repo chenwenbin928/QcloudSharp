@@ -136,6 +136,6 @@ Dynamic Properties
 
 ## License
 
-MIT License
+The MIT License
 
 More info see [LICENSE](LICENSE)
